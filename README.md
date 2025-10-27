@@ -47,7 +47,6 @@ Refresh all connections in Excel
 Arman Gupta
 📍 B.Tech CSE, LPU
 💼 Data Visualization | Excel Automation | Dashboard Design
-🔗 LinkedIn Profile
 
 🌟 Contributing
 
