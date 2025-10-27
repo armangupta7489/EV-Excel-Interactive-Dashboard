@@ -25,7 +25,7 @@ This dashboard provides insights into **EV adoption trends**, **regional growth*
 - *(Optional)* Python (for data preprocessing)
 
 ---
-##Project Motivation & Insights
+## Project Motivation & Insights
 
 The rise of Electric Vehicles (EVs) represents a global shift toward sustainable mobility. However, analyzing EV adoption trends, environmental impacts, and regional performance still requires accessible data tools.
 This project aims to simplify EV data analysis using Microsoft Excel, enabling users — from students to policymakers — to explore key metrics, growth trends, and risk insights through an interactive dashboard.
@@ -53,7 +53,7 @@ Replace the CSV in /dataset
 Refresh all connections in Excel
 
 
-#Author
+# Author
 
 Arman Gupta
 📍 B.Tech CSE, LPU
